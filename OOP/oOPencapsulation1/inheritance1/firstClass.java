@@ -10,6 +10,7 @@ class B extends A{
     public B() {
         super(5);
         System.out.println("B");
+        System.out.println("B");
     }
 }
 
